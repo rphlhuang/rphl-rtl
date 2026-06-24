@@ -1,1 +1,5 @@
 venv/
+sim_build/
+__pycache__/
+.claude/
+results.xml

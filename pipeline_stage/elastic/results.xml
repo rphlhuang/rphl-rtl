@@ -1,8 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1782344048" />
-    <testcase name="test_single_transfer" classname="test_elastic" file="/Users/rhuang/Documents/Claude/Projects/verif_ai/cocotb-tutorial/pipeline_stage/elastic/test_elastic.py" lineno="67" time="0.0018177032470703125" sim_time_ns="270.0" ratio_time="148539.09758656874" />
-    <testcase name="test_fuzz" classname="test_elastic" file="/Users/rhuang/Documents/Claude/Projects/verif_ai/cocotb-tutorial/pipeline_stage/elastic/test_elastic.py" lineno="90" time="0.060910701751708984" sim_time_ns="20160.0" ratio_time="330976.32140536566" />
-    <testcase name="test_max_throughput" classname="test_elastic" file="/Users/rhuang/Documents/Claude/Projects/verif_ai/cocotb-tutorial/pipeline_stage/elastic/test_elastic.py" lineno="116" time="0.02684617042541504" sim_time_ns="8320.0" ratio_time="309913.84872248024" />
-  </testsuite>
-</testsuites>
